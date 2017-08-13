@@ -1,2 +1,2 @@
-# red2red
+# redxo
 Redis Inter-Datastore Synchronization
